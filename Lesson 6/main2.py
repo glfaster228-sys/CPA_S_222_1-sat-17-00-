@@ -1,5 +1,6 @@
 import warnings
-
+import math 
+class HomeError
 class AgeError(Exception):
     pass
 
@@ -12,4 +13,4 @@ if (age < 16):
     raise AgeError("вам нет достаточно лет для получения прав") 
 
 
-print("доступ разрешён")
+print("доступ разрешён")                          
