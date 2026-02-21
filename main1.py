@@ -59,4 +59,4 @@ vehichle = Drivable(0, 0)
 mercedes_w211 = Car(automatic_transmission, m113)
 
 print(f"Car: \n\tWheels: {mercedes_w211.wheels_count} \n\tSeats: {mercedes_w211.seats_count} \n\tTransmission: {mercedes_w211.transmission.type}")
-print(f"Engine:\n\tVolume: {mercedes_w211.engine.volume}L \n\tPower: {mercedes_w211.engine.horse_power}HP \n\tTorque: {mercedes_w211.engine.torque}Nm")
+print(f"Engine:\n\tVolume: {mercedes_w211.engine.volume}L \n\tPower: {mercedes_w211.engine.horse_power}HP \n\tTorque: {mercedes_w211.engine.torque}Nm")d
